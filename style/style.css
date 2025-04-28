@@ -1,0 +1,25 @@
+.img{
+    width: 111%;
+    max-width: 480px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 20px auto;
+    display: block;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    filter: grayscale(0.5);
+    filter: brightness(0.8);
+    filter: contrast(1.2);
+    filter: sepia(0.2);
+    filter: hue-rotate(10deg);
+    filter: invert(0.1);
+    filter: blur(0px);
+    filter: opacity(0.9);
+    filter: saturate(1.2);
+    
+}
+
+.img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
