@@ -1,3 +1,13 @@
+.body{
+    background-color: #f6edff;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    width: 400px;
+    height: 1959px;
+}
+
+
 .img{
     width: 111%;
     max-width: 480px;

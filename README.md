@@ -25,7 +25,7 @@ Abra la ubicacion del HTML
 
 | Indice | Titulo  |
 |--|--|
-|Examen|JavaScript
+|Examen|JavaScripts
 
 # Figma / Maquetación Hecha
 
